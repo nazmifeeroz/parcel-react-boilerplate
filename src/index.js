@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import Title from '@components/title'
+import Title from '_components/title'
 
 console.log('process.env.TITLE', process.env.TITLE)
 class App extends React.Component {
